@@ -1,0 +1,42 @@
+.kanye-west{
+    display:flex;
+    background-image: url("https://ak2.picdn.net/shutterstock/videos/7937482/thumb/1.jpg");
+    height:300px;
+    color:red;
+    justify-content:center;
+    margin:20px;
+    padding:20px;
+    }
+.vote-now{
+    display:flex;
+    justify-content:center;
+}
+.picture{
+    display:flex;
+    margin:20px;
+    justify-content:center;
+}
+.speech{
+    display:flex;
+}
+body{
+    background-color: red;
+
+
+}
+button{
+    height:50px;
+    width:98%;
+    color:red;
+    font-size:30px;
+}
+h1{
+    margin:100px;
+    font-family: 'Thasadith', sans-serif;
+    font-size:60px;
+
+}
+h2{
+    margin:10px;
+}
+    
